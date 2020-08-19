@@ -1,0 +1,13 @@
+<MinutiaeList>
+  <Minutia X="403" Y="331" Angle="34.0" Type="End" />
+  <Minutia X="413" Y="313" Angle="23.0" Type="End" />
+  <Minutia X="345" Y="462" Angle="20.0" Type="End" />
+  <Minutia X="369" Y="355" Angle="354.0" Type="End" />
+  <Minutia X="343" Y="293" Angle="348.0" Type="Bifurcation" />
+  <Minutia X="329" Y="444" Angle="331.0" Type="End" />
+  <Minutia X="311" Y="348" Angle="327.0" Type="End" />
+  <Minutia X="387" Y="350" Angle="164.0" Type="End" />
+  <Minutia X="324" Y="339" Angle="148.0" Type="End" />
+  <Minutia X="309" Y="333" Angle="147.0" Type="End" />
+  <Minutia X="383" Y="435" Angle="146.0" Type="End" />
+</MinutiaeList>

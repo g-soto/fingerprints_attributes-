@@ -1,0 +1,37 @@
+<MinutiaeList>
+  <Minutia X="443" Y="472" Angle="79.0" Type="Bifurcation" />
+  <Minutia X="477" Y="450" Angle="78.0" Type="End" />
+  <Minutia X="427" Y="452" Angle="43.0" Type="End" />
+  <Minutia X="447" Y="385" Angle="29.0" Type="End" />
+  <Minutia X="411" Y="412" Angle="2.0" Type="End" />
+  <Minutia X="400" Y="307" Angle="359.0" Type="End" />
+  <Minutia X="419" Y="565" Angle="358.0" Type="End" />
+  <Minutia X="404" Y="552" Angle="354.0" Type="End" />
+  <Minutia X="346" Y="335" Angle="339.0" Type="End" />
+  <Minutia X="370" Y="577" Angle="342.0" Type="Bifurcation" />
+  <Minutia X="369" Y="405" Angle="332.0" Type="Bifurcation" />
+  <Minutia X="341" Y="590" Angle="337.0" Type="End" />
+  <Minutia X="343" Y="367" Angle="328.0" Type="End" />
+  <Minutia X="350" Y="565" Angle="323.0" Type="End" />
+  <Minutia X="399" Y="541" Angle="316.0" Type="End" />
+  <Minutia X="317" Y="413" Angle="315.0" Type="End" />
+  <Minutia X="345" Y="543" Angle="310.0" Type="Bifurcation" />
+  <Minutia X="357" Y="510" Angle="311.0" Type="End" />
+  <Minutia X="388" Y="527" Angle="307.0" Type="End" />
+  <Minutia X="325" Y="543" Angle="302.0" Type="End" />
+  <Minutia X="450" Y="553" Angle="237.0" Type="End" />
+  <Minutia X="485" Y="407" Angle="214.0" Type="End" />
+  <Minutia X="440" Y="566" Angle="183.0" Type="End" />
+  <Minutia X="429" Y="413" Angle="184.0" Type="End" />
+  <Minutia X="416" Y="319" Angle="176.0" Type="End" />
+  <Minutia X="407" Y="427" Angle="157.0" Type="End" />
+  <Minutia X="358" Y="358" Angle="146.0" Type="End" />
+  <Minutia X="428" Y="527" Angle="140.0" Type="End" />
+  <Minutia X="327" Y="360" Angle="134.0" Type="End" />
+  <Minutia X="392" Y="513" Angle="132.0" Type="End" />
+  <Minutia X="320" Y="382" Angle="133.0" Type="End" />
+  <Minutia X="389" Y="479" Angle="129.0" Type="Bifurcation" />
+  <Minutia X="361" Y="484" Angle="125.0" Type="End" />
+  <Minutia X="417" Y="482" Angle="123.0" Type="Bifurcation" />
+  <Minutia X="429" Y="493" Angle="104.0" Type="Bifurcation" />
+</MinutiaeList>

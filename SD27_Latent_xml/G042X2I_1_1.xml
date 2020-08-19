@@ -1,0 +1,29 @@
+<MinutiaeList>
+  <Minutia X="438" Y="583" Angle="79.0" Type="Bifurcation" />
+  <Minutia X="453" Y="567" Angle="66.0" Type="Bifurcation" />
+  <Minutia X="425" Y="540" Angle="60.0" Type="Bifurcation" />
+  <Minutia X="421" Y="509" Angle="41.0" Type="Bifurcation" />
+  <Minutia X="413" Y="488" Angle="22.0" Type="End" />
+  <Minutia X="393" Y="533" Angle="14.0" Type="Bifurcation" />
+  <Minutia X="375" Y="505" Angle="350.0" Type="End" />
+  <Minutia X="376" Y="521" Angle="344.0" Type="End" />
+  <Minutia X="339" Y="465" Angle="333.0" Type="End" />
+  <Minutia X="299" Y="675" Angle="329.0" Type="End" />
+  <Minutia X="247" Y="713" Angle="330.0" Type="End" />
+  <Minutia X="247" Y="691" Angle="323.0" Type="Bifurcation" />
+  <Minutia X="293" Y="631" Angle="316.0" Type="Bifurcation" />
+  <Minutia X="278" Y="566" Angle="301.0" Type="End" />
+  <Minutia X="399" Y="623" Angle="289.0" Type="Bifurcation" />
+  <Minutia X="439" Y="529" Angle="223.0" Type="Bifurcation" />
+  <Minutia X="408" Y="541" Angle="182.0" Type="Bifurcation" />
+  <Minutia X="403" Y="465" Angle="166.0" Type="End" />
+  <Minutia X="403" Y="529" Angle="155.0" Type="End" />
+  <Minutia X="389" Y="503" Angle="156.0" Type="Bifurcation" />
+  <Minutia X="367" Y="454" Angle="149.0" Type="End" />
+  <Minutia X="341" Y="613" Angle="129.0" Type="Bifurcation" />
+  <Minutia X="304" Y="498" Angle="127.0" Type="End" />
+  <Minutia X="319" Y="512" Angle="118.0" Type="End" />
+  <Minutia X="388" Y="573" Angle="104.0" Type="Bifurcation" />
+  <Minutia X="409" Y="575" Angle="94.0" Type="End" />
+  <Minutia X="402" Y="560" Angle="90.0" Type="Bifurcation" />
+</MinutiaeList>
